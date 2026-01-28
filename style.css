@@ -80,3 +80,29 @@ footer {
   color: #666;
   border-top: 1px solid #222;
 }
+#signup {
+  background: #111;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+#signup input {
+  padding: 12px;
+  width: 260px;
+  max-width: 80%;
+  margin: 10px 0;
+  border: none;
+}
+
+#signup button {
+  padding: 12px 30px;
+  margin-left: 5px;
+  border: none;
+  background: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#signup button:hover {
+  background: #ccc;
+}
