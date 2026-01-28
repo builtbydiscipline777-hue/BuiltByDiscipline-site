@@ -106,3 +106,16 @@ footer {
 #signup button:hover {
   background: #ccc;
 }
+#story {
+  background: #0f0f0f;
+  padding: 80px 20px;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+#story p {
+  color: #bbbbbb;
+  margin-bottom: 20px;
+  line-height: 1.7;
+}
